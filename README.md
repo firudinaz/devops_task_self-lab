@@ -1,4 +1,3 @@
-![Logo](https://i.ibb.co/YXpVZ8X/landingpage-utrust-logo-2x-1-1.png)
 
 ### Tech Challange
 ##### The web project should include a simple API GET endpoint providing JSON data from the database.
